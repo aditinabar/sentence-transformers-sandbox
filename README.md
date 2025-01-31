@@ -2,7 +2,7 @@
 
 Hello!
 
-Welcome to my take home assessment. In this repo, there are two ways you can test my code. You'll find a .ipynb jupyter notebook that you can use to initialize each model class and generate embeddings. The answers to discussion questions are also in this notebook, and only available in this notebook. You can also generate embeddings using src/run.py. Instructions for how to use run.py are below. Thanks!
+Welcome to my take home assessment. In this repo, there are two ways you can test my code. You'll find a .ipynb jupyter notebook that you can use to initialize each model class and generate embeddings. The answers to discussion questions are also in this notebook, and only available in this notebook. You can also generate embeddings using src/run.py. Instructions for how to use run.py are below. For either path you chose, I'd recommend creating a python venv using src/requirements.txt. Thanks!
 
 ## **Usage**  
 
